@@ -1,0 +1,11 @@
+streamlit
+PyMuPDF
+pandas
+numpy
+scikit-learn
+faiss-cpu
+tqdm
+sentence-transformers
+google-generativeai
+accelerate
+joblib
