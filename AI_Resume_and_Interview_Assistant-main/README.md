@@ -62,6 +62,8 @@ preprocess.py – Merges and cleans the raw dataset files into one CSV
 
 final_cleaned.csv – Generated CSV used for matching (after preprocessing)
 
+requirement.txt - Libraries for UI, PDF parsing, data processing, embeddings, similarity search, and Gemini API integration.
+
 
 How It Works
 You upload a resume in PDF format. The app extracts key sections like education, experience, and skills. It then either matches the resume to the most relevant job from the dataset or compares it to a custom job description. After the resume analysis, the app presents technical and HR questions. Once you answer them, it uses Gemini to evaluate your responses and give feedback.
